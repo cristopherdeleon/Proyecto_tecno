@@ -1,0 +1,28 @@
+c:\users\pc41lab4\documents\visual studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe.config
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.pdb
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.xml
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.vbprojResolveAssemblyReference.cache
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.admistrador.resources
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.LOGIN.resources
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.Resources.resources
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.vbproj.GenerateResource.Cache
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.exe
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.xml
+C:\Users\PC41LAB4\Documents\Visual Studio 2015\Projects\1U-TecVII-GA1_LOGIN_1\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.pdb
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe.config
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.exe
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.xml
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.pdb
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.pdb
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.xml
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.vbprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.admistrador.resources
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.LOGIN.resources
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\1U-TecVII-GA1_LOGIN_1_ casi terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.vbproj.GenerateResource.Cache
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe.config
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.exe
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.xml
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.pdb

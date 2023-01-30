@@ -1,0 +1,20 @@
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe.config
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.exe
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.xml
+C:\Users\PC39LAB4\Desktop\1U-TecVII-GA1_LOGIN_1_ terminado\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.pdb
+E:\tarea\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe.config
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.exe
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.xml
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.pdb
+E:\tarea\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe
+E:\tarea\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.pdb
+E:\tarea\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.xml
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\TAREA 2.vbprojResolveAssemblyReference.cache
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.admistrador.resources
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.LOGIN.resources
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\_1U_TecVII_GA1_LOGIN_1.Resources.resources
+E:\tarea\1U-TecVII-GA1_LOGIN_1\obj\Debug\TAREA 2.vbproj.GenerateResource.Cache
+C:\Users\PC39LAB4\Desktop\tarea2\1U-TecVII-GA1_LOGIN_1\bin\Debug\1U-TecVII-GA1_LOGIN_1.exe.config
+C:\Users\PC39LAB4\Desktop\tarea2\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.exe
+C:\Users\PC39LAB4\Desktop\tarea2\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.xml
+C:\Users\PC39LAB4\Desktop\tarea2\1U-TecVII-GA1_LOGIN_1\obj\Debug\1U-TecVII-GA1_LOGIN_1.pdb
